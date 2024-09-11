@@ -24,16 +24,16 @@ Docker를 이용하여 Web 애플리케이션 개발 환경 구축 노하우와 
 PC 환경에서 Docker 환경을 사용하기 위한 도입 단계를 포함하여 알아봅니다. 
 이 책에서는 다음과 같은 환경에서 실습을 진행합니다.
 
-• Linux - Ubuntu 20.04 (LTS) 64bit
-  : Linux 환경에서 Docker를 사용하기 위한 최소 사양은 다음 링크에서 확인할 수 있습니다.
-  https://docs.docker.com/engine/install/#server
+• Linux - Ubuntu 20.04 (LTS) 64bit  
+  : Linux 환경에서 Docker를 사용하기 위한 최소 사양은 다음 링크에서 확인할 수 있습니다.  
+  https://docs.docker.com/engine/install/#server  
 
-• Windows - Hyper-V가 작동하는 Windows 10 Pro 64bit
-  : Windows 환경에서 Docker를 사용하려면 Docker Desktop for Windows의 최소 사양을 지원해야 합니다. 또한 WSL2 환경을 사용하기 위해서는 1903 버전 이상의 업데이트를 설치해야 합니다. 자세한 사항은 다음 링크에서 확인할 수 있습니다.
-  https://docs.docker.com/docker-for-windows/install/#system-requirements
+• Windows - Hyper-V가 작동하는 Windows 10 Pro 64bit  
+  : Windows 환경에서 Docker를 사용하려면 Docker Desktop for Windows의 최소 사양을 지원해야 합니다. 또한 WSL2 환경을 사용하기 위해서는 1903 버전 이상의 업데이트를 설치해야 합니다. 자세한 사항은 다음 링크에서 확인할 수 있습니다.  
+  https://docs.docker.com/docker-for-windows/install/#system-requirements  
 
-• macOS - macOS 16.0 (Big Sur)
-  : macOS의 경우 10.14 (Mojave) 이상의 OS에서 Docker를 사용할 수 있습니다.
+• macOS - macOS 16.0 (Big Sur)  
+  : macOS의 경우 10.14 (Mojave) 이상의 OS에서 Docker를 사용할 수 있습니다.  
 
 
 <br>
